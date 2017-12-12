@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\Ninety-Nine\ACSL-Contest-1\bin\Debug\ACSL-Contest-1.exe.config
+C:\Users\eahscs\Documents\GitHub\Ninety-Nine\ACSL-Contest-1\bin\Debug\ACSL-Contest-1.exe
+C:\Users\eahscs\Documents\GitHub\Ninety-Nine\ACSL-Contest-1\bin\Debug\ACSL-Contest-1.pdb
+C:\Users\eahscs\Documents\GitHub\Ninety-Nine\ACSL-Contest-1\obj\Debug\ACSL-Contest-1.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Ninety-Nine\ACSL-Contest-1\obj\Debug\ACSL-Contest-1.exe
+C:\Users\eahscs\Documents\GitHub\Ninety-Nine\ACSL-Contest-1\obj\Debug\ACSL-Contest-1.pdb
